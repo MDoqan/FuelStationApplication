@@ -1,0 +1,7 @@
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\bin\Debug\FuelStationConsoleApplication.exe.config
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\bin\Debug\FuelStationConsoleApplication.exe
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\bin\Debug\FuelStationConsoleApplication.pdb
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\obj\Debug\FuelStationConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\obj\Debug\FuelStationConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\obj\Debug\FuelStationConsoleApplication.exe
+C:\Users\sfmzsfmz\source\repos\FuelStationConsoleApplication\FuelStationConsoleApplication\obj\Debug\FuelStationConsoleApplication.pdb
